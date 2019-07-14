@@ -6,7 +6,7 @@ from PIL import Image,ImageTk
 
 window=tk.Tk()
 window.geometry("300x500")
-window.title("Scissor Paper Rock @Diwas ")
+window.title("Scissor Paper Rock @RajChowdhury ")
 
 image=Image.open('aa.jpg')
 image.thumbnail((300,300),Image.ANTIALIAS)
